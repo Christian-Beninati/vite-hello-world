@@ -9,7 +9,11 @@ export default {
 </script>
 
 <template>
-    <h1>{{ title }}</h1>
+    <!-- header -->
+    <header>
+        <!-- title -->
+        <h1>{{ title }}</h1>
+    </header>
 </template>
 
 <style>
